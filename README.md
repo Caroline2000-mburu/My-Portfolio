@@ -29,7 +29,7 @@ To run this project locally on your computer:
 1. Clone the repository; https://github.com/Caroline2000-mburu/My-Portfolio.git
 2. Navigate into the project folder
 3. Open the'index.html' file in your browser.
-   #Acknowledgements
+# Acknowledgements
 
 - Built during the Hackathon challenge by Power Learn Project.
 - Inspired by my personal development journey and desire to create an authentic online presence.
