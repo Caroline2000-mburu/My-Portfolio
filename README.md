@@ -5,9 +5,8 @@ Welcome to my personal portfolio website! This project showcases who I am, the s
 ## 🔗 Live Demo
 
 You can view the deployed website here:  
-👉 [View Portfolio](https://Caroline2000-mburu.github.io/your-repo-name/)
+👉 [View Portfolio](https://github.com/Caroline2000-mburu/My-Portfolio)
 
-> Replace `your-username` and `your-repo-name` in the link above with your actual GitHub username and the name of your repository.
 
 # Features
 
@@ -27,7 +26,7 @@ You can view the deployed website here:
 
 To run this project locally on your computer:
 
-1. Clone the repository:
+1. Clone the repository; https://github.com/Caroline2000-mburu/My-Portfolio.git
 2. Navigate into the project folder
 3. Open the'index.html' file in your browser.
    #Acknowledgements
